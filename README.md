@@ -4,7 +4,7 @@ CAFE
 This is a web-based application developed for Cafe related based website in India.
 This web-based cafe application has been developed for the accomplishment of the Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
 
-Project Link - https://proud-ocean-0987bf400.3.azurestaticapps.net/	
+Project Link - https://proud-ocean-0987bf400.3.azurestaticapps.net/
 Video link - 
 
 
@@ -16,9 +16,13 @@ Azure technologies used for the Project :
 Features and Functionalities :
 
 •	Interactive and responsive Ul.
+
 •	Has many graphical and visual innovative effects in web page.
+
 •	Has a collection of many web pages including Home, About, Why Us, Services, Portfolio,  Contact, and café related information, etc.
+
 •	Have multiple varieties of coffee like cappuccino, latte, mocha, and espresso, etc.
+
 •	Users can purchase varieties of coffee through this website.
 
 SCREENSHOTS
