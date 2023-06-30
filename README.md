@@ -10,8 +10,9 @@ Video link -
 
 Azure technologies used for the Project :
 
-•	Static web apps
-•	Containers
+# Static web apps
+
+# Containers
 
 Features and Functionalities :
 
