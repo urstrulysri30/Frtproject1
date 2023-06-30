@@ -5,14 +5,15 @@ This is a web-based application developed for Cafe related based website in Indi
 This web-based cafe application has been developed for the accomplishment of the Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github, and EY.
 
 Project Link - https://proud-ocean-0987bf400.3.azurestaticapps.net/
+
 Video link - 
 
 
 Azure technologies used for the Project :
 
-# Static web apps
+Static web apps
 
-# Containers
+Containers
 
 Features and Functionalities :
 
