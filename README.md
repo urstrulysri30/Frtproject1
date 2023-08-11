@@ -6,7 +6,7 @@ This web-based cafe application has been developed for the accomplishment of the
 
 Project Link - https://proud-ocean-0987bf400.3.azurestaticapps.net/
 
-Project Demo Video link - https://youtu.be/tYKOAgSn5P8
+Project Demo Video link - https://youtu.be/esk9zaBu214
 
 
 Azure technologies used for the Project :
@@ -31,23 +31,38 @@ SCREENSHOTS
 
 HOME
 
-![Screenshot (30)](https://github.com/urstrulysri30/Frtproject1/assets/111484018/70ad4bb6-3559-498c-9893-f692d5b1dbe7)
+![HOME](https://github.com/urstrulysri30/Frtproject1/assets/111484018/4ff5e1ee-2e1d-4084-bce1-c45a7d30398f)
+
 
 ABOUT
 
-![Screenshot (31)](https://github.com/urstrulysri30/Frtproject1/assets/111484018/902b5c2b-0bf4-47f2-8975-bf6418e2c2c5)
+![ABOUT](https://github.com/urstrulysri30/Frtproject1/assets/111484018/3c07ba6d-8495-4246-a178-62d9d5b0d502)
+
 
 WHY US
 
-![Screenshot (32)](https://github.com/urstrulysri30/Frtproject1/assets/111484018/3b1b9cc4-4dbb-4a43-bb3b-43f024fd25da)
+![WHY US](https://github.com/urstrulysri30/Frtproject1/assets/111484018/f471a43e-640e-4cff-a419-1a1d6cb0e5dd)
+
 
 SERVICES
 
-![Screenshot (33)](https://github.com/urstrulysri30/Frtproject1/assets/111484018/e54d36bf-7f12-4cbc-9e91-43f2b521a792)
+![SERVICES](https://github.com/urstrulysri30/Frtproject1/assets/111484018/3cd65aa2-1096-4754-97ab-7e9b7a0aa65a)
+
+
+PORTFOLIO
+
+![PORTFOLIO](https://github.com/urstrulysri30/Frtproject1/assets/111484018/a7f09a8d-fd27-4e06-beba-83a806b6fbbc)
+
+
+TESTIMONIALS
+
+![TESTIMONIALS](https://github.com/urstrulysri30/Frtproject1/assets/111484018/324efeae-e887-4188-9c62-19198c706252)
+
 
 CONTACT US
 
-![Screenshot (34)](https://github.com/urstrulysri30/Frtproject1/assets/111484018/d4f38de5-2ca8-4f37-99b0-d7853ce530f8)
+![CONTACT](https://github.com/urstrulysri30/Frtproject1/assets/111484018/e268d943-d1e1-4d5c-b183-509b75c6318b)
+
 
 
 Tech Stack :
